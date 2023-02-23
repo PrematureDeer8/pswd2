@@ -16,7 +16,7 @@ def password():
 			break;
 		else:
 			time.sleep(.5)
-			print("Incorrect password");
+			print("Login Incorrect");
 
 
 if __name__ == "__main__":
